@@ -9,19 +9,44 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- additions goes here
+- additions go here
 
 ### Updated
 
-- updates goes here
+- updates go here
 
 ### Fixed
 
-- fixes goes here
+- fixes go here
 
 ### Removed
 
-- removals goes here
+- removals go here 
+
+## [1.0.0rc6] - 2023-06-20
+
+### Fixed
+
+- Fixed issue with saving data in Figure-9.9.ipynb
+- Fixed broken download URLs in the notebooks
+- Removed unused imports in notebooks
+
+### Updated
+
+- Updated .gitignore to exclude notebook downloads and files
+- Updated codes for figures 6.1, 6.6 and 7.8
+
+## [1.0.0rc5] - 2023-10-06
+
+### Updated
+
+- Updated notebook names to match those in the book.
+
+## [1.0.0rc4] - 2023-08-29
+
+### Added
+
+- Added Jypyter notebook [notebooks/App-F/sinus_freq_content.ipynb](https://github.com/LFPy/ElectricBrainSignals/blob/main/notebooks/App-4/sinus_freq_content.ipynb)
 
 ## [1.0.0rc3] - 2023-08-23
 
